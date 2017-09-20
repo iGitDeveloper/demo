@@ -1,3 +1,6 @@
+/*
+ * Comment in test class
+*/
 package com.example.demo;
 
 import org.junit.Test;
